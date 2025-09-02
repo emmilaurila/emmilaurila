@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a student at LAB University of Applied Sciences. I am studying Industrial Information Technology. I use GitHub to save all of the projects that I'll be making while studying this degree.
+
 <!--
 **emmilaurila/emmilaurila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
