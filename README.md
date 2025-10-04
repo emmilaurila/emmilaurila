@@ -8,7 +8,7 @@ I am a student at LAB University of Applied Sciences. I am studying Industrial I
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on becoming better at coding.
-- 🌱 I’m currently learning Python, HTML and JavaScript coding.
+- 🌱 I’m currently learning Python, HTML, CSS and JavaScript coding.
 - 👯 I’m looking to collaborate on making a Roblox game.
 - 🤔 I’m looking for help with learning about anything that interests me.
 - 💬 Ask me about anything, for example, about Roblox.
